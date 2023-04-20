@@ -34,7 +34,9 @@
 [![cacastil's 42 C Piscine C 05 Score](https://badge42.vercel.app/api/v2/clgp8695t003008mn8fbfrodp/project/3040347)](https://github.com/JaeSeoKim/badge42)
 
 <h3> ⭐ C06 </h3>
-[![cacastil's 42 C Piscine C 06 Score](https://badge42.vercel.app/api/v2/clgp8695t003008mn8fbfrodp/project/3040347)](https://github.com/JaeSeoKim/badge42)
+
+[![cacastil's 42 C Piscine C 06 Score](https://badge42.vercel.app/api/v2/clgp8695t003008mn8fbfrodp/project/3043411)](https://github.com/JaeSeoKim/badge42)
 
 <h3> ⭐ C07 </h3> 
+
 [![cacastil's 42 C Piscine C 07 Score](https://badge42.vercel.app/api/v2/clgp8695t003008mn8fbfrodp/project/3040347)](https://github.com/JaeSeoKim/badge42)
