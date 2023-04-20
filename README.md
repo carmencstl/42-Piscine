@@ -40,3 +40,18 @@
 <h3> ⭐ C07 </h3> 
 
 [![cacastil's 42 C Piscine C 07 Score](https://badge42.vercel.app/api/v2/clgp8695t003008mn8fbfrodp/project/3040347)](https://github.com/JaeSeoKim/badge42)
+
+<h3> 🧐 Exam 00 </h3> 
+[![cacastil's 42 C Piscine Exam 00 Score](https://badge42.vercel.app/api/v2/clgp8695t003008mn8fbfrodp/project/3020270)](https://github.com/JaeSeoKim/badge42)
+
+<h3> 🧐 Exam 01 </h3>
+
+[![cacastil's 42 C Piscine Exam 01 Score](https://badge42.vercel.app/api/v2/clgp8695t003008mn8fbfrodp/project/3030959)](https://github.com/JaeSeoKim/badge42)
+
+<h3> 🧐 Exam 02 </h3> 
+
+[![cacastil's 42 C Piscine Exam 02 Score](https://badge42.vercel.app/api/v2/clgp8695t003008mn8fbfrodp/project/3039635)](https://github.com/JaeSeoKim/badge42)
+
+<h3> 🧐 Final Exam </h3> 
+
+[![cacastil's 42 C Piscine Final Exam Score](https://badge42.vercel.app/api/v2/clgp8695t003008mn8fbfrodp/project/3046240)](https://github.com/JaeSeoKim/badge42)
